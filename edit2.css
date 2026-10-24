@@ -1,0 +1,6 @@
+[href*="https://"] {
+    font-size: 2em;
+    width: 300px;
+    background-color: rgb(0, 17, 255);
+    white-space: pre-wrap;
+}
